@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @dylanlap98
-- 👀 I’m interested in Big Data and Data Engineering
-- 🌱 I’m currently studying in a Computer & Data Science program tackling Data Science Concepts
-     I am also working in a Jr. Software Development role at MOVIA Robotics, INC
+- 👀 I find my passion in technology where real world problems meet technology solutions
+     - Focus: Cloud Architecture/Development, Artificial Intelligence Solutions.
+- 🌱 I graduated in 2022 with a B.S. in Computer & Data Science
 - 💞️ I’m looking to collaborate ... !!
-- 📫 How to reach me -> email: dlapierre@usj.edu 
-     or message me on LinkedIn @ https://www.linkedin.com/in/dylan-lapierre/
+- 📫 Email -> HIDDEN... Message me on Social!
+     - LinkedIn @ https://www.linkedin.com/in/dylan-lapierre/
 
 <!---
 dylanlap98/dylanlap98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
