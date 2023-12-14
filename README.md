@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dylanlap98
-- 👀 I find my passion in technology where real world problems meet technology solutions
-     - Focus: Cloud Architecture/Development, Artificial Intelligence Solutions.
-- 🌱 I graduated in 2022 with a B.S. in Computer & Data Science
+- 👋 Hello, I’m @dylanlap98
+- 🌱 My passion exists where the world 🌎 meets technology solutions.
+     - Cloud Architecture/Development, Artificial Intelligence Solutions.
+- 🎓 I graduated in 2022 with a B.S. in Computer & Data Science
 - 💞️ I’m looking to collaborate ... !!
 - 📫 Email -> HIDDEN... Message me on Social!
      - LinkedIn @ https://www.linkedin.com/in/dylan-lapierre/
